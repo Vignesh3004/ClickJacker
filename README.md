@@ -3,7 +3,7 @@ The Clickjacking Vulnerability Checker is a command-line tool that helps identif
 <br> 
 <br>
 ## Installation
-Install the clickjacker.py file 
+Install the clickjacker.py file <br>
 Make sure you have python 3.x versions installed in your computer
 <br>
 <br>
