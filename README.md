@@ -38,4 +38,8 @@ If a website URL is provided without the http:// or https:// prefix, it will be 
  
 ## Follow me on: <br>
 https://www.linkedin.com/in/vignesh3004 <br>
-https://medium.com/@vignesh3004
+https://medium.com/@vignesh3004 <br>
+https://www.youtube.com/@VigneshHunts
+ 
+## Buy me a coffee:
+https://www.buymeacoffee.com/vignesh3004
