@@ -32,12 +32,10 @@ The -v or --save option is used to specify a file to save the vulnerable website
 | `-f or --file` | Includes the text file containing a list of websites |
 | `-v or --save` | Save vulnerable sites to a text file |
 <br>
-<br>  
- 
+
 ## Note: <br>
 If a website URL is provided without the http:// or https:// prefix, it will be automatically added.
-<br>
-<br>  
+ 
 ## Follow me on: <br>
 https://www.linkedin.com/in/vignesh3004 <br>
 https://medium.com/@vignesh3004
