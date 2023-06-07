@@ -1,5 +1,5 @@
 # ClickJacker
-The Clickjacking Vulnerability Checker is a command-line tool that helps identify websites vulnerable to clickjacking attacks. It analyzes the content-security-policy and x-frame-options headers to determine if a website is susceptible to clickjacking, providing a clear vulnerability status for each website checked. Additionally, it supports checking multiple websites at once and saving the vulnerable sites to a text file for further analysis or mitigation.
+The ClickJacker is a command-line tool that helps identify websites vulnerable to clickjacking attacks. It analyzes the content-security-policy and x-frame-options headers to determine if a website is susceptible to clickjacking, providing a clear vulnerability status for each website checked. Additionally, it supports checking multiple websites at once and saving the vulnerable sites to a text file for further analysis or mitigation.
 <br> 
 <br>
 ## Installation
